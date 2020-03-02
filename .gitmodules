@@ -1,0 +1,3 @@
+[submodule "data-app/subRepo"]
+	path = data-app/subRepo
+	url = https://github.com/kishorwideeye/subRepo.git
